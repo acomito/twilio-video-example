@@ -12,3 +12,7 @@
 
 
 The app should boot up on localhost
+
+Open the chrome console and click the "Start Twilio" button.
+
+The relevant code is in imports/ui/pages/Index.js
