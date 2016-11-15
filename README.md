@@ -1,17 +1,14 @@
-# The Meteor Chef - Base
-A starting point for Meteor apps.
+# Exmaple
 
-<table>
-  <tbody>
-    <tr>
-      <th>Base Version</th>
-      <td>v4.9.0</td>
-    </tr>
-    <tr>
-      <th>Meteor Version</th>
-      <td>v1.4.2.1</td>
-    </tr>
-  </tbody>
-</table>
 
-[Read the Documentation](http://themeteorchef.com/base)
+# To run
+
+* make sure you have meteor installed
+* clone repo
+* cd to root folder
+* run `meteor npm install`
+* run `npm install`
+* run 'meteor npm start'
+
+
+The app should boot up on localhost
