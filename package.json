@@ -11,13 +11,7 @@
     "production": "meteor deploy production.meteor.com --settings settings-production.json"
   },
   "devDependencies": {
-    "chimp": "^0.41.2",
-    "eslint": "^3.8.1",
-    "eslint-config-airbnb": "^12.0.0",
-    "eslint-plugin-import": "^1.16.0",
-    "eslint-plugin-jsx-a11y": "^2.2.3",
-    "eslint-plugin-meteor": "^4.0.1",
-    "eslint-plugin-react": "^6.4.1"
+    "chimp": "^0.41.2"
   },
   "eslintConfig": {
     "parserOptions": {
@@ -67,12 +61,15 @@
     "bootstrap": "^3.3.7",
     "jquery": "^2.2.4",
     "jquery-validation": "^1.15.1",
+    "meteor-node-stubs": "^0.2.4",
     "react": "^15.3.2",
     "react-addons-pure-render-mixin": "^15.3.2",
     "react-bootstrap": "^0.30.5",
     "react-dom": "^15.3.2",
     "react-komposer": "^1.13.1",
     "react-router": "^3.0.0",
-    "react-router-bootstrap": "^0.23.1"
+    "react-router-bootstrap": "^0.23.1",
+    "react-twilio-video": "^1.1.16",
+    "twilio-video": "^1.0.0-beta2"
   }
 }
